@@ -41,13 +41,15 @@ Below are the links for eclipse installation
 - [Eclipse 2024-03](https://www.eclipse.org/downloads/packages/release/2024-03/r)
 - [Eclipse 2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r)
 
-![screenshot](./images/eclipse.png)
+![screenshot](./images/8.eclipse.png)
 
 ### 4. Download Wca4ej extension
 
 Download the latest WCA4EJ Code Eclipse Extension and install by following these instructions: [Wca4ej Extension](https://ibm.box.com/s/o26ggaar57eh61m2t4ndvx84s31zho3v)
 
-The Windows plugin requires the [Microsoft Edge WebView2 runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH). In newer versions of Windows this might already be installed.
+The Windows plugin requires the [Microsoft Edge WebView2 runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH). 
+Scroll down and choose Evergreen Standalone Installer. 
+In newer versions of Windows this might already be installed. In that case, you will receive this message while installing.
 
 
 ### 5. Installing Wca4ej extension
