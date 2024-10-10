@@ -7,10 +7,11 @@ This document gives infomration on installing software tools/IDE that are needed
 
 Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/technologies/downloads/)
 > Note: After installing java,add java to `PATH` variable and set `JAVA_HOME` envitonment variable
-> Check if Java is installed properly:
+Check if Java is installed properly:
 ```bash
 java --version
 ```
+
 ### 2. Install Maven
 
 - Windows
@@ -39,6 +40,8 @@ Eclipse users must install one of these two packages:
 Below are the links for eclipse installation
 - [Eclipse 2024-03](https://www.eclipse.org/downloads/packages/release/2024-03/r)
 - [Eclipse 2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r)
+
+![screenshot](./images/eclipse.png)
 
 ### 4. Download Wca4ej extension
 
