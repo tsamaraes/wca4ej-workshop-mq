@@ -7,6 +7,10 @@ This document gives infomration on installing software tools/IDE that are needed
 
 Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/technologies/downloads/)
 > Note: After installing java,add java to `PATH` variable and set `JAVA_HOME` envitonment variable
+> Check if Java is installed properly:
+```bash
+java --version
+```
 ### 2. Install Maven
 
 - Windows
