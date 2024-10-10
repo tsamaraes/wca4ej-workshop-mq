@@ -43,6 +43,18 @@ Below are the links for eclipse installation
 
 ![screenshot](./images/8.eclipse.png)
 
+
+### 4. Configure Java21 in Eclipse
+If for some reason Eclipse doesn’t automatically detect your Java 21 installation:
+
+- Go to Window > Preferences.
+- Expand the Java section and click on Installed JREs.
+- Click Add and select Standard VM.
+- Browse to the folder where your Java 21 is installed (typically C:\Program Files\Java\jdk-21).
+- Select the JDK and click Finish.
+![screenshot](./images/9.Configure_Java21_in_Eclipse.png)
+
+
 ### 4. Download Wca4ej extension
 
 Download the latest WCA4EJ Code Eclipse Extension and install by following these instructions: [Wca4ej Extension](https://ibm.box.com/s/o26ggaar57eh61m2t4ndvx84s31zho3v)
