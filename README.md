@@ -35,7 +35,7 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 
 ### 5. Installing Wca4ej extension
 
-After downloding the extension from **Step 4** and getting API key from **Step 5** install the wca4ej using eclipse as shown below ![screenshot](./images/1.InstallNewSw.png)
+After downloding the extension from **Step 4** install the wca4ej using eclipse as shown below ![screenshot](./images/1.InstallNewSw.png)
 
 Choose the loacl package or archive and provide the path where the extension files are downloaded from **Step 4** 
 ![screenshot](./images/2.LocateLocalPackage.png)
@@ -48,10 +48,10 @@ Then choose the Watson code assistant for enterprise java as below
 
 ![screenshot](./images/5.ShowWca4ejChatView.png)
 
-After this, you will be navigated to below screen, input the API key created in **Step 5**
+After this, you will be navigated to below screen [the API key will be provided to you later during the workshop].
 ![screenshot](./images/3.Wca4ejchat.png)
 
-### 7. Installing Liberty Tools
+### 6. Installing Liberty Tools
 
 Install the liberty tools from eclipse market place as shown below [Help >> Eclipse Marketplace]
 ![screenshot](./images/6.LibertyTools.png)
