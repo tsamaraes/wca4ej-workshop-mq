@@ -29,9 +29,10 @@ Below are the links for eclipse installation
 
 ### 4. Download Wca4ej extension
 
-Download the latest WCA4EJ Code Eclipse Extension and install by following these instructions: [Wca4ej Extension](https://early-access.ibm.com/software/support/trial/cst/welcomepage.wss?siteId=2044)
+Download the latest WCA4EJ Code Eclipse Extension and install by following these instructions: [Wca4ej Extension](https://ibm.box.com/s/o26ggaar57eh61m2t4ndvx84s31zho3v)
 
-> Note: If you see a yellow warning: checking file that doesn’t go away; hit refresh & try again
+The Windows plugin requires the [Microsoft Edge WebView2 runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH). In newer versions of Windows this might already be installed.
+
 
 ### 5. Installing Wca4ej extension
 
