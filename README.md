@@ -16,6 +16,8 @@ Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/te
     - Add Maven to PATH and Set MAVEN_HOME variable 
 - Mac
    - Install maven using homebrew
+```bash
+brew install maven
 
 ### 3. Install Eclipse
 
