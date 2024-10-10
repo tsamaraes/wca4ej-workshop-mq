@@ -33,39 +33,7 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 
 > Note: If you see a yellow warning: checking file that doesn’t go away; hit refresh & try again
 
-
-### 5. Techozone environment 
-You can reserve an instance in techzone by using this [Techzone Link](https://techzone.ibm.com/collection/wca4eja/environments).
-
-
-After reserving the instance, you can accept the invitation sent to your email and then create an API key using below steps.
-
-1. Go to cloud.ibm.com to create an API key for later use in WCA:
-2. Look at the top menu bar and click on Manage > Access (IAM) > API keys.
-3. Click Create an IBM Cloud API key.
-4. Enter a name and description for your API key.
-5. Click Create.
-6. Then, click Show to display the API key or click Copy to copy
-7. Save this API Key for later entry into the WCA plugin for Eclipse
-
-Next go to cloud.ibm.com/resources and expand the "AI/Machine Learning" group then click on “wca4eja - primary”:
-
-![alt text](./images/image.png)
-
-Click on the Launch watsonx Code Assistant button
-![alt text](./images/image-1.png)
-
-If you see the screen below, click Setup.
-![alt text](./images/image-2.png)
-
-In the next screen, you can follow the instructions for the first checkmark to create your own Deployment Space:
-![alt text](./images/image-3.png)
-
-Ignore the 2nd and 3rd checkmark.  Do not invite users to your IBM Cloud account nor to your Deployment space.
-
-Now, you are ready to use your API key in the Eclipse plugin.
-
-### 6. Installing Wca4ej extension
+### 5. Installing Wca4ej extension
 
 After downloding the extension from **Step 4** and getting API key from **Step 5** install the wca4ej using eclipse as shown below ![screenshot](./images/1.InstallNewSw.png)
 
