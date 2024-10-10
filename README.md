@@ -55,7 +55,7 @@ If for some reason Eclipse doesn’t automatically detect your Java 21 installat
 ![screenshot](./images/9.Configure_Java21_in_Eclipse.png)
 
 
-### 4. Download Wca4ej extension
+### 5. Download Wca4ej extension
 
 Download the latest WCA4EJ Code Eclipse Extension and install by following these instructions: [Wca4ej Extension](https://ibm.box.com/s/o26ggaar57eh61m2t4ndvx84s31zho3v)
 
@@ -64,7 +64,7 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 - In newer versions of Windows this might already be installed. In that case, you will receive this message while installing.
 
 
-### 5. Installing Wca4ej extension
+### 6. Installing Wca4ej extension
 
 After downloding the extension from **Step 4** install the wca4ej using eclipse as shown below ![screenshot](./images/1.InstallNewSw.png)
 
@@ -82,7 +82,7 @@ Then choose the Watson code assistant for enterprise java as below
 After this, you will be navigated to below screen [the API key will be provided to you later during the workshop].
 ![screenshot](./images/3.Wca4ejchat.png)
 
-### 6. Installing Liberty Tools
+### 7. Installing Liberty Tools
 
 Install the liberty tools from eclipse market place as shown below [Help >> Eclipse Marketplace]
 ![screenshot](./images/6.LibertyTools.png)
