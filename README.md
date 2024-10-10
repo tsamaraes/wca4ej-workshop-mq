@@ -18,6 +18,8 @@ Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/te
    - Install maven using homebrew
 ```bash
 brew install maven
+```
+
 
 ### 3. Install Eclipse
 
