@@ -20,6 +20,11 @@ Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/te
 brew install maven
 ```
 
+Check if maven is installed properly:
+```bash
+mvn --version
+```
+
 
 ### 3. Install Eclipse
 
