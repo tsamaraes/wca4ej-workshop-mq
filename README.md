@@ -57,10 +57,6 @@ Install the liberty tools from eclipse market place as shown below [Help >> Ecli
 ![screenshot](./images/6.LibertyTools.png)
 
 
-Now, you can start using wca4ej
-
-You can import the existing maven project, after that based on the your requirement, choose the feature you need.
-![screenshot](./images/7.Wca4ejFunctionalites.png)
-
+Now, you can start using wca4ej after getting the API key.
 
 
