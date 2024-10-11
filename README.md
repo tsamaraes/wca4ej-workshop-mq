@@ -41,7 +41,10 @@ Below are the links for eclipse installation
 - [Eclipse 2024-03](https://www.eclipse.org/downloads/packages/release/2024-03/r)
 - [Eclipse 2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r)
 
+Move **Eclipse.app** to **Application** (For Mac)
+
 ![screenshot](./images/8.eclipse.png)
+
 
 
 ### 4. Configure Java21 in Eclipse
@@ -49,7 +52,8 @@ If for some reason Eclipse doesn’t automatically detect your Java 21 installat
 
 - Go to Window > Preferences (for the windows) **OR** Eclipse > Settings (for the mac).
 - Expand the Java section and click on Installed JREs.
-- Click Add and select Standard VM.
+- Make sure to select Java21, if already present in the options and click Apply and Close
+- Else, Click Add and select Standard VM.
 - Browse to the folder where your Java 21 is installed (typically C:\Program Files\Java\jdk-21).
 - Select the JDK and click Finish.
 ![screenshot](./images/9.Configure_Java21_in_Eclipse.png)
