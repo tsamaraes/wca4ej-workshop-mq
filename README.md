@@ -66,7 +66,21 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 
 ### 6. Installing Wca4ej extension
 
-After downloding the extension from **Step 4** install the wca4ej using eclipse as shown below ![screenshot](./images/1.InstallNewSw.png)
+To install the plugin:
+
+- In your Eclipse editor, click **Help**, then click **Install New Software**.
+- In the Install dialog, click **Add**.
+- In the Add Repository dialog, click **Archive**, then choose the ZIP file that you downloaded.
+- Enter a name in the Name field, then click **Add**.
+- Click the check box for the plugin, then click **Next**.
+- On Install Details, review the items, then click **Next**.
+- On Review Licenses, read the license, click to agree, then click **Finish**.
+- On Trust Artifacts, click the **Type** check box, then click **Trust Selected**.
+- You need to restart Eclipse. On Software Updates, click **Restart Now**.
+
+- Alternatively you can follow below snapshots:
+
+After downloding the extension from **Step 5** install the wca4ej using eclipse as shown below ![screenshot](./images/1.InstallNewSw.png)
 
 Choose the local package or archive and provide the path where the extension files are downloaded from **Step 4** 
 ![screenshot](./images/2.LocateLocalPackage.png)
