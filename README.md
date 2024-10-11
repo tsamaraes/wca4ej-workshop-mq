@@ -63,7 +63,7 @@ If for some reason Eclipse doesn’t automatically detect your Java 21 installat
 
 Download the latest WCA4EJ Code Eclipse Extension and install by following these instructions: [Wca4ej Extension](https://ibm.box.com/s/o26ggaar57eh61m2t4ndvx84s31zho3v)
 
-- The Windows plugin requires the [Microsoft Edge WebView2 runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH). 
+- If using Windows OS, the Windows plugin requires the [Microsoft Edge WebView2 runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?form=MA13LH). 
 - Scroll down and choose Evergreen Standalone Installer. 
 - In newer versions of Windows this might already be installed. In that case, you will receive this message while installing.
 
