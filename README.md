@@ -76,7 +76,8 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 - On Install Details, review the items, then click **Next**.
 - On Review Licenses, read the license, click to agree, then click **Finish**.
 - On Trust Artifacts, click the **Type** check box, then click **Trust Selected**.
-- IMPORTANT: Do not restart the eclipse IDE until Installing Software progress bar completes in the **right bottom**.
+- **IMPORTANT**: Do not close eclipse until Installing Software progress bar completes in the **right bottom**.
+  
 ![screenshot](./images/2.LocateLocalPackage.png)
 
 #### After the software (extension gets installed), restart your IDE. After restart, navigate to below setting 
