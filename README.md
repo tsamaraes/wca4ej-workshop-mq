@@ -86,7 +86,7 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 
 ![screenshot](./images/10.InstallingSoftwareStatusbar.png)
 
-#### After the software (extension gets installed), restart your IDE. After restart, navigate to below setting 
+#### After the software (extension gets installed), restart your Eclipse IDE. After restart, navigate to below setting 
 
 ![screenshot](./images/4.ChooseviewEclipse.png)
 
