@@ -5,7 +5,7 @@ This document gives infomration on installing software tools/IDE that are needed
 
 ### 1. Java installation
 
-Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/technologies/downloads/)
+#### Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/technologies/downloads/)
 - After installing java, add java to `PATH` variable and set `JAVA_HOME` envitonment variable
 - Check if Java is installed properly:
 ```bash
@@ -65,8 +65,6 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 
 
 ### 6. Installing Wca4ej extension
-
-To install the plugin:
 
 
 #### After downloding the extension from **Step 5** install the wca4ej using eclipse as shown below 
