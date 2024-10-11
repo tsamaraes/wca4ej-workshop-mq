@@ -45,7 +45,7 @@ Below are the links for eclipse installation
 
 
 ### 4. Configure Java21 in Eclipse
-If for some reason Eclipse doesn’t automatically detect your Java 21 installation:
+If for some reason Eclipse doesn’t automatically detect your Java 21 installation, first try restarting it. Else:
 
 - Go to Window > Preferences.
 - Expand the Java section and click on Installed JREs.
