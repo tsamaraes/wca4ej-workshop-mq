@@ -83,7 +83,7 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 
 ![screenshot](./images/4.ChooseviewEclipse.png)
 
-#### Then choose the Watson code assistant for enterprise java as below
+#### Then choose the 'Chat' feature of Watson code assistant for enterprise java as below
 
 ![screenshot](./images/5.ShowWca4ejChatView.png)
 
