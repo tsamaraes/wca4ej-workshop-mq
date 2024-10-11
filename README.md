@@ -68,32 +68,28 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 
 To install the plugin:
 
-- In your Eclipse editor, click **Help**, then click **Install New Software**.
-- In the Install dialog, click **Add**.
-- In the Add Repository dialog, click **Archive**, then choose the ZIP file that you downloaded.
+
+#### After downloding the extension from **Step 5** install the wca4ej using eclipse as shown below 
+![screenshot](./images/1.InstallNewSw.png)
+
+#### Choose the local package or archive and provide the path where the extension files are downloaded from **Step 4** 
 - Enter a name in the Name field, then click **Add**.
 - Click the check box for the plugin, then click **Next**.
 - On Install Details, review the items, then click **Next**.
 - On Review Licenses, read the license, click to agree, then click **Finish**.
 - On Trust Artifacts, click the **Type** check box, then click **Trust Selected**.
-- You need to restart Eclipse. On Software Updates, click **Restart Now**.
 
-- Alternatively you can follow below snapshots:
-
-After downloding the extension from **Step 5** install the wca4ej using eclipse as shown below ![screenshot](./images/1.InstallNewSw.png)
-
-Choose the local package or archive and provide the path where the extension files are downloaded from **Step 4** 
 ![screenshot](./images/2.LocateLocalPackage.png)
 
-After the software (extension gets installed), restart your IDE. After restart, navigate to below setting 
+#### After the software (extension gets installed), restart your IDE. After restart, navigate to below setting 
 
 ![screenshot](./images/4.ChooseviewEclipse.png)
 
-Then choose the Watson code assistant for enterprise java as below
+#### Then choose the Watson code assistant for enterprise java as below
 
 ![screenshot](./images/5.ShowWca4ejChatView.png)
 
-After this, you will be navigated to below screen [the API key will be provided to you later during the workshop].
+#### After this, you will be navigated to below screen [the API key will be provided to you later during the workshop].
 ![screenshot](./images/3.Wca4ejchat.png)
 
 ### 7. Installing Liberty Tools
