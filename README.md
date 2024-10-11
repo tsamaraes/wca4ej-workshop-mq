@@ -47,7 +47,7 @@ Below are the links for eclipse installation
 ### 4. Configure Java21 in Eclipse
 If for some reason Eclipse doesn’t automatically detect your Java 21 installation, first try restarting it. Else:
 
-- Go to Window > Preferences.
+- Go to Window > Preferences (for the windows) OR Eclipse > Settings (for the mac).
 - Expand the Java section and click on Installed JREs.
 - Click Add and select Standard VM.
 - Browse to the folder where your Java 21 is installed (typically C:\Program Files\Java\jdk-21).
