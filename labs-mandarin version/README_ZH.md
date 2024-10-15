@@ -41,24 +41,24 @@ Windows系統的插件需要配合[Microsoft Edge WebView2 runtime](https://deve
 
 選擇主機套件或給予在**步驟 4** 下載檔案的行逕
 
-![screenshot](./images/2.LocateLocalPackage.png)
+![screenshot](../images/2.LocateLocalPackage.png)
 
 安裝成功之後，請從新啟動IDE. 從新啟動後，請按照截圖找到此選擇
 
-![screenshot](./images/4.ChooseviewEclipse.png)
+![screenshot](../images/4.ChooseviewEclipse.png)
 
 請根據截圖，選擇Watson code assistant for enterprise java
 
-![screenshot](./images/5.ShowWca4ejChatView.png)
+![screenshot](../images/5.ShowWca4ejChatView.png)
 
 之後，您會看到截圖內的畫面[API 鎖會在workshop當天發出].
 
-![screenshot](./images/3.Wca4ejchat.png)
+![screenshot](../images/3.Wca4ejchat.png)
 
 ### 6. 安裝Liberty工具
 
 請到 Eclipse Market Place, 安裝有關liberty工具 [Help >> Eclipse Marketplace]
-![screenshot](./images/6.LibertyTools.png)
+![screenshot](../images/6.LibertyTools.png)
 
 
 得到API鎖之後，您可以開始使用wca4ej。
