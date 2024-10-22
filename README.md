@@ -43,7 +43,7 @@ Below are the links for eclipse installation
 
 Move **Eclipse.app** to **Application** (For Mac)
 
-**For Mac** Open a terminal, navigate to the Application, and open Eclipse from there using following command: **open Eclipse.app**
+**For Mac**, Open a terminal, navigate to the Application, and open Eclipse from there using following command: **open Eclipse.app**
 
 **For windows**, you can just click on the Eclipse app icon to open it directly.
 
