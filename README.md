@@ -34,13 +34,13 @@ java --version
       echo $JAVA_HOME
       ```
 - **For Windows**:
-  - Open Environment variables
-  - Add the following varaibles:
+  - Open Environment variables using windows search bar
+  - Set JAVA_HOME variable using Environment variables:
     ```bash
     JAVA_HOME= C:\Program Files\Java\jdk-21
     ```
     
-  - Then Add the following to the path variable:
+  - Add Java to PATH using Environment variables: 
     ```bash
     C:\Program Files\Java\jdk-21\bin
     ```
@@ -53,10 +53,11 @@ java --version
     - Visit the official Maven website: [Maven Download Page](https://maven.apache.org/download.cgi)
     - Under "Files", click on the binary zip archive link (e.g., apache-maven-x.x.x-bin.zip). 
     - Extract the zip file to a location of your choice, e.g., C:\Apache\maven.
-    - Add Maven to PATH and Set MAVEN_HOME variable using Environment variables:
+    - Set MAVEN_HOME variable using Environment variables:
       ```bash
       MAVEN_HOME= <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9
       ```
+    - Add Maven to PATH using Environment variables: 
       ```bash
       <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
       ```
