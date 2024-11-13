@@ -64,11 +64,11 @@ java --version
 - **Mac**
    - Install maven using homebrew
       ```bash
-        brew install maven
+      brew install maven
       ```
    - Check if maven is installed properly:
       ```bash
-         mvn --version
+      mvn --version
       ```
 
 
