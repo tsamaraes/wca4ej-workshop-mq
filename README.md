@@ -1,4 +1,4 @@
-# Installation guide for wca4ej 
+![image](https://github.com/user-attachments/assets/8548e01d-d982-420f-b99a-b9cae222601f)# Installation guide for wca4ej 
 
 This document gives infomration on installing software tools/IDE that are needed to run ***Watson Code Assistant For Enterprise Java*** **(Wca4ej)**
 ## Environment setup 
@@ -16,7 +16,22 @@ java --version
       ```bash
       nano ~/.zshrc
       ```
-  - aa
+  - Add the following lines
+      ```bash
+      export JAVA_HOME=/Library/Java/JavaVirtualMachines/<version>/Contents/Home
+      ```
+      ```bash
+      export PATH=$JAVA_HOME/bin:$PATH
+      ```
+  - Save the file and exit (press CTRL + X, then Y, and hit Enter)
+  - Reload the shell configuration so the changes take effect.
+      ```bash
+      source ~/.zshrc
+      ```
+  - Verify the JAVA_HOME with the following command:
+      ```bash
+      echo $JAVA_HOME
+      ```
 
 
 
