@@ -63,14 +63,15 @@ java --version
       ```
 - **Mac**
    - Install maven using homebrew
-```bash
-brew install maven
-```
+      ```bash
+        brew install maven
+      ```
+   - Check if maven is installed properly:
+      ```bash
+         mvn --version
+      ```
 
-Check if maven is installed properly:
-```bash
-mvn --version
-```
+
 
 
 ### 3. Install Eclipse
