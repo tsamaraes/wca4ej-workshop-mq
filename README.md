@@ -78,7 +78,7 @@ java --version
 
 Eclipse users must install one of these two packages:
    - Eclipse IDE for Java Developers
-   - Eclipse IDE for Enterprise Java and Web Developers 
+   - Eclipse IDE for Enterprise Java and Web Developers (preferred)
 
 Below are the links for eclipse installation
 - [Eclipse 2024-03](https://www.eclipse.org/downloads/packages/release/2024-03/r)
