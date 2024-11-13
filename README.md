@@ -38,11 +38,15 @@ java --version
   - Add the following varaibles:
     ```bash
     JAVA_HOME= C:\Program Files\Java\jdk-21
+    ```
+    ```bash
     MAVEN_HOME= <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9
     ```
-  - Add the following to the path variable
+  - Add the following to the path variable:
     ```
     C:\Program Files\Java\jdk-21\bin
+    ```
+    ```
     <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
     ```
 
