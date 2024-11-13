@@ -39,19 +39,11 @@ java --version
     ```bash
     JAVA_HOME= C:\Program Files\Java\jdk-21
     ```
-    ```bash
-    MAVEN_HOME= <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9
-    ```
-    _Note: You'll download maven in the next step_
     
   - Then Add the following to the path variable:
     ```bash
     C:\Program Files\Java\jdk-21\bin
     ```
-    ```bash
-    <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
-    ```
-    _Note: You'll download maven in the next step_
 
 
 
@@ -61,7 +53,13 @@ java --version
     - Visit the official Maven website: [Maven Download Page](https://maven.apache.org/download.cgi)
     - Under "Files", click on the binary zip archive link (e.g., apache-maven-x.x.x-bin.zip). 
     - Extract the zip file to a location of your choice, e.g., C:\Apache\maven.
-    - Add Maven to PATH and Set MAVEN_HOME variable 
+    - Add Maven to PATH and Set MAVEN_HOME variable using Environment variables:
+      ```bash
+      MAVEN_HOME= <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9
+      ```
+      ```bash
+      <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
+      ```
 - Mac
    - Install maven using homebrew
 ```bash
