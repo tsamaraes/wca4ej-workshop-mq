@@ -77,12 +77,14 @@ java --version
 ### 3. Install Eclipse
 
 Eclipse users must install one of these two packages:
+   - Eclipse IDE for Enterprise Java and Web Developers _(preferred)_
    - Eclipse IDE for Java Developers
-   - Eclipse IDE for Enterprise Java and Web Developers (preferred)
+
 
 Below are the links for eclipse installation
+- [Eclipse 2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r) _(preferred)_
 - [Eclipse 2024-03](https://www.eclipse.org/downloads/packages/release/2024-03/r)
-- [Eclipse 2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r) (preferred)
+  
 
 After installation, open Eclipse:
 - **For Mac**,
