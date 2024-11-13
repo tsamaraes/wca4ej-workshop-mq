@@ -19,7 +19,7 @@ java --version
       ```
   - Add the following lines
       ```bash
-      export JAVA_HOME=/Library/Java/JavaVirtualMachines/<version>/Contents/Home
+      export JAVA_HOME=/Library/Java/JavaVirtualMachines/<java version>/Contents/Home
       ```
       ```bash
       export PATH=$JAVA_HOME/bin:$PATH
