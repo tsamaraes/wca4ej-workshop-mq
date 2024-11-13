@@ -6,11 +6,19 @@ This document gives infomration on installing software tools/IDE that are needed
 ### 1. Java installation
 
 #### Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/technologies/downloads/)
-- After installing java, add java to `PATH` variable and set `JAVA_HOME` envitonment variable
 - Check if Java is installed properly:
 ```bash
 java --version
 ```
+
+- After installing java, add java to `PATH` variable and set `JAVA_HOME` envitonment variable
+  a. Open .zshrc or .bash_profile
+      ```bash
+      nano ~/.zshrc
+      ```
+  b. aa
+
+
 
 ### 2. Install Maven
 
