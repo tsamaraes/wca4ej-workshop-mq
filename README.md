@@ -35,12 +35,12 @@ java --version
       ```
 - **For Windows**:
   - Open Environment variables
-  - Add the following:
+  - Add the following varaibles:
     ```bash
     JAVA_HOME= C:\Program Files\Java\jdk-21
     MAVEN_HOME= <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9
     ```
-  - Add the following to the path
+  - Add the following to the path variable
     ```
     C:\Program Files\Java\jdk-21\bin
     <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
