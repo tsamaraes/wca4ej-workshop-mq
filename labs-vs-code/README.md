@@ -56,37 +56,37 @@ Download the latest WCA4EJ Code VSCode Extension: [WCA4EJ Extensions](https://ib
 
 - nevigating to extension tab and **install from VSIX** 
 
-![screenshot](./images/VSC_extension_install.png)
+![screenshot](../images/VSC_extension_install.png)
 
 - select the WCA4EJ drivers downloaded `wca-for-eja-***.vsix`
 and click install.
 
-![screenshot](./images/VSC_WCA4EJ_extension.png)
+![screenshot](../images/VSC_WCA4EJ_extension.png)
 
 - repeat the same for `wca-core-***.vsix`
 
-![screenshot](./images/VSC_IBM_Granite_Code_extension.png)
+![screenshot](../images/VSC_IBM_Granite_Code_extension.png)
 
 - restart VSCode if necessary
 
 - Login with WCA4EJ API Key at the bottom left corner of VSCode. After successfully signed in, the number indicator should be gone.
 
-![screenshot](./images/VSC_WCA4J_Sign_in.png)
+![screenshot](../images/VSC_WCA4J_Sign_in.png)
 
 - If you encoutner issue during autherization that says **"administrator needs to associate you with a deployment space"**, please reach out to IBMers to setup deployment space again for your API Key. 
 
-![screenshot](./images/VSC_WCA4j_Sign_in_error_1.png)
+![screenshot](../images/VSC_WCA4j_Sign_in_error_1.png)
 
 
 ### 7. Installing Liberty Tools
 
 Install the liberty tools from VSCode marketplace as shown below.
 
-![screenshot](./images/VSC_LibertyTools.png)
+![screenshot](../images/VSC_LibertyTools.png)
 
 
 ### 8. Start Using WCA4EJ
 
 You can check by navigating to the **watsonx Code Assistant** tab if your API Key is setup correctly by opening the chat window of WCA4EJ and chat with the model.
 
-![screenshot](./images/VSC_chat_with_model.png)
+![screenshot](../images/VSC_chat_with_model.png)
