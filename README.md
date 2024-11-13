@@ -12,7 +12,7 @@ java --version
 ```
 
 - After installing java, add java to `PATH` variable and set `JAVA_HOME` envitonment variable
-- For **Mac**:
+- **For Mac**:
   - Open .zshrc or .bash_profile
       ```bash
       nano ~/.zshrc
@@ -33,17 +33,17 @@ java --version
       ```bash
       echo $JAVA_HOME
       ```
-- For **Windows**:
+- **For Windows**:
   - Open Environment variables
   - Add the following:
     ```bash
     JAVA_HOME= C:\Program Files\Java\jdk-21
-    MAVEN_HOME= <path>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9
+    MAVEN_HOME= <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9
     ```
   - Add the following to the path
     ```
     C:\Program Files\Java\jdk-21\bin
-    <path>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
+    <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
     ```
 
 
