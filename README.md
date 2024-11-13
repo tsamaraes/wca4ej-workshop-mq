@@ -12,11 +12,11 @@ java --version
 ```
 
 - After installing java, add java to `PATH` variable and set `JAVA_HOME` envitonment variable
-  a. Open .zshrc or .bash_profile
+  - Open .zshrc or .bash_profile
       ```bash
       nano ~/.zshrc
       ```
-  b. aa
+  - aa
 
 
 
