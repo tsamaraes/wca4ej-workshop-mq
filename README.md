@@ -84,15 +84,15 @@ Below are the links for eclipse installation
 - [Eclipse 2024-03](https://www.eclipse.org/downloads/packages/release/2024-03/r)
 - [Eclipse 2023-12](https://www.eclipse.org/downloads/packages/release/2023-12/r)
 
-
-**For Mac** 
+After installation, open eclipse:
+**For Mac**, 
 - Open a terminal, navigate to the Application, and open Eclipse from there using following command: 
   ```bash
   open /Applications/Eclipse.app
   ```
 - Move **Eclipse.app** to **Application** (For Mac)
 
-**For windows**
+**For Windows**,
 - You can just click on the Eclipse app icon to open it directly.
 
 
