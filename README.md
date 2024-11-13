@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8548e01d-d982-420f-b99a-b9cae222601f)# Installation guide for wca4ej 
+# Installation guide for wca4ej 
 
 This document gives infomration on installing software tools/IDE that are needed to run ***Watson Code Assistant For Enterprise Java*** **(Wca4ej)**
 ## Environment setup 
