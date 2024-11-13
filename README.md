@@ -152,7 +152,7 @@ Download the latest WCA4EJ Code Eclipse Extension and install by following these
 #### After this, you will be navigated to below screen [the API key will be provided to you later during the workshop].
 ![screenshot](./images/3.Wca4ejchat.png)
 
-#### If you face issues while entering the API key, close the Eclipse, run the following command in terminal and open your eclipse again.
+#### If you face issues while entering the API key, close the Eclipse, run the following command in terminal and open your eclipse again as shown in step 3.
   ```bash
   rm -rf ~/.eclipse/org.eclipse.equinox.security/secure_storage
   ```
