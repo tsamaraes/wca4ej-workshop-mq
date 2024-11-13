@@ -163,4 +163,6 @@ Install the liberty tools from eclipse market place as shown below [Help >> Ecli
 
 Now, you can start using wca4ej after getting the API key.
 
+**Note:** After we add our API key, a window will prompt to store a master password. Select **Yes** and fill the security questions with any default vaules. 
+
 
