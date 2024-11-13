@@ -49,7 +49,7 @@ java --version
 
 ### 2. Install Maven
 
-- Windows
+- **Windows**
     - Visit the official Maven website: [Maven Download Page](https://maven.apache.org/download.cgi)
     - Under "Files", click on the binary zip archive link (e.g., apache-maven-x.x.x-bin.zip). 
     - Extract the zip file to a location of your choice, e.g., C:\Apache\maven.
@@ -61,7 +61,7 @@ java --version
       ```bash
       <path-to-folder>\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin
       ```
-- Mac
+- **Mac**
    - Install maven using homebrew
 ```bash
 brew install maven
