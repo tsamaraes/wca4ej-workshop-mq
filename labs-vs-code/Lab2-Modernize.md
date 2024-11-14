@@ -55,6 +55,7 @@ We can go to browser to view the new application. This time you will find that t
 
 ![screenshot](../images/VSC_modernize_to_liberty_logout_fixed.png)
 
+
 ----
 
 ### (REMOVE when send to client) Appendix 1. Errors Encountered
@@ -76,6 +77,3 @@ String newStr = originalStr.toUpperCase();
 Because of the error of using `StringUtils` instead of `StringEscapeUtils`, the following error might occur.
 
 ![screenshot](../images/known_errors_1.png)
-
-
-

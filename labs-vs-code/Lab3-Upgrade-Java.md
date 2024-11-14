@@ -37,7 +37,7 @@ The chat with model window will show up and ask model for help. The model gives 
 
 Here we change the code in the `DMbeanUtils.java` file using the copy code from chat.
 
-We can ignore the second issue for now as it is a deprecation warning.
+We can ignore the second issue for now as it is a deprecation warning. Or if the rebuild still have error, you can go through the same process and fix the warning as well.
 
 
 ### 3. Rebuild Application

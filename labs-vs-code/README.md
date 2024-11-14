@@ -46,8 +46,11 @@ As of now, API Key will be provided by IBMers. Please reach out to IBMers for he
 
 ### 5. Download WCA4EJ extension
 
-Download the latest WCA4EJ Code VSCode Extension: [WCA4EJ Extensions](https://ibm.ent.box.com/folder/293035931391.)
+Download the latest WCA4EJ Code VSCode Extension: [WCA4EJ Extensions](https://ibm.box.com/s/1tqyem1d743yt2jxl14jffv4klwgpxpo)
 (PLEASE notify IBMers if you cannot access this link).
+
+- `wca-for-eja-1.0.0-20241113_1118.vsix`
+- `wca-core-1.0.26.vsix`
 
 ### 6. Installing Wca4ej extension
 
