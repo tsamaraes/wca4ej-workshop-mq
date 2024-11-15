@@ -29,6 +29,11 @@ mvn install:install-file -Dfile=was_public.jar -DpomFile=was_public-9.0.0.pom
 
 ![screenshot](../images/VSC_was_build.png)
 
+For Windows users, you might need to give full path for the build files `was_public.jar` and `was_public-9.0.0.pom`.
+
+![screenshot](../images/VSC-windows-build-app-full-path.png)
+
+
 ### 3. View Liberty App
 
 After you installed LibertyTools from VSCode marketplace, there should be a Liberty Dashboard section in your explorer. Click `Add project to Liberty Dashboard` and put the path to the `modresort-twas-j8` folder (this would be automatic if you open in this project).
