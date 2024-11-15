@@ -81,12 +81,13 @@ and click install.
 ![screenshot](../images/VSC_WCA4j_Sign_in_error_1.png)
 
 
-### 7. Installing Liberty Tools
+### 7. Installing Liberty Tools and Java Extension
 
-Install the liberty tools from VSCode marketplace as shown below.
+Install the Liberty Tools and extension Pack for Java extensions from VSCode marketplace as shown below.
 
 ![screenshot](../images/VSC_LibertyTools.png)
 
+![screenshot](../images/VSC_Pack_for_Java.png)
 
 ### 8. Start Using WCA4EJ
 
