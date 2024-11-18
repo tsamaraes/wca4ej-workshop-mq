@@ -5,7 +5,13 @@ This document gives infomration on installing software tools/IDE that are needed
 
 ### 1. Java installation
 
-#### Install Java21 using this link [Download Java](https://www.oracle.com/sg/java/technologies/downloads/)
+#### Install Java21 using this link:
+[Download Java for Mac OS - Arm64](https://download.oracle.com/java/21/latest/jdk-21_macos-aarch64_bin.tar.gz)
+[Download Java for Mac OS - x64](https://download.oracle.com/java/21/latest/jdk-21_macos-x64_bin.tar.gz)
+[Download Java for Windows](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip)
+
+All the above are compressed files, you can extract them to any folder in your local.
+
 - Check if Java is installed properly:
 ```bash
 java --version
