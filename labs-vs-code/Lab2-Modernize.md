@@ -45,9 +45,10 @@ There are 2 action items here.
 
 ![screenshot](../images/VSC_modernize_to_liberty_pom_update.png)
 
+
 ### 3. Rebuild Application
 
-Now that we have all the fixes applied, we can `Rebuild and refresh` to see that there are no more issues with the application.
+Now that we have all the fixes applied. If your `modresort` application is still running, please stop it by going to `TERMINAL` and `CTRL+C`. You can `Rebuild and refresh` to see that there are no more issues with the application.
 
 ![screenshot](../images/VSC_modernize_to_liberty_rebuild.png)
 
