@@ -113,9 +113,6 @@ After installation, open Eclipse:
   - You can just click on the Eclipse app icon to open it directly.
 
 
-![screenshot](./images/8.eclipse.png)
-
-
 
 ### 4. Configure Java21 in Eclipse
 If for some reason Eclipse doesn’t automatically detect your Java 21 installation, first try restarting it. Else:
