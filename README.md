@@ -40,7 +40,8 @@ java --version
       echo $JAVA_HOME
       ```
 - **For Windows**:
-  - Open Environment variables using windows search bar
+  - Open Environment variables using windows search bar (search for edit environment variables in the search bar)
+    ![image](https://github.com/user-attachments/assets/d0099fe2-72c1-4594-8b5f-8075f2d6bced)
   - Set JAVA_HOME variable using Environment variables:
     ```bash
     JAVA_HOME= C:\Program Files\Java\jdk-21
