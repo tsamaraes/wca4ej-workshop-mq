@@ -47,7 +47,9 @@ Similar to what we see for Java, unit test generation is available for other lan
 Code translation is provided via the following syntex:
 
 ```
-/translate [from SOURCE_LANGUAGE] to TARGET_LANGUAGE @REFERENCE_FILE|CODE_SNIPPET
+/translate from SOURCE_LANGUAGE to TARGET_LANGUAGE @REFERENCE_FILE|CODE_SNIPPET
 ```
+
+Please note from SOURCE_LANGUAGE is an optional argument, and can be skipped while doing translation.
 
 ![screenshot](../images/VSC_gp_translation.png)
