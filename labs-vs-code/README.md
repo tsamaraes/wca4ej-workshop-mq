@@ -57,7 +57,7 @@ java --version
     
   - Add Java to PATH using Environment variables:
  
-  -![image](https://github.com/user-attachments/assets/8925e501-5db6-449b-9ad4-eef44ea253cf)
+  - ![image](https://github.com/user-attachments/assets/8925e501-5db6-449b-9ad4-eef44ea253cf)
  
     ```bash
     %JAVA_HOME%\bin
