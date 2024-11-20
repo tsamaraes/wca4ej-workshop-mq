@@ -80,7 +80,7 @@ Install the Liberty Tools and extension Pack for Java extensions from VSCode mar
 
 ![screenshot](../images/VSC_LibertyTools.png)
 
-![screenshot](../images/VSC_Pack_for_Java.png)
+![screenshot](../images/VSCode-pack-for-java.png)
 
 ### 8. Start Using WCA4EJ
 
