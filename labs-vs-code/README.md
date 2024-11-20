@@ -71,7 +71,7 @@ and click install.
 
 - If you encoutner issue during autherization that says **"administrator needs to associate you with a deployment space"**, please reach out to IBMers to setup deployment space again for your API Key. 
 
-![screenshot](../images/VSC_WCA4j_Sign_in_error_1.png)
+![screenshot](../images/VSC_WCA4J_Sign_in_error_1.png)
 
 
 ### 7. Installing Liberty Tools and Java Extension
