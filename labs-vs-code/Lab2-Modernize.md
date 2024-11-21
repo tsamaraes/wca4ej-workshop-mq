@@ -55,26 +55,3 @@ Now that we have all the fixes applied. If your `modresort` application is still
 We can go to browser to view the new application. This time you will find that the `Logout` button is fixed.
 
 ![screenshot](../images/VSC_modernize_to_liberty_logout_fixed.png)
-
-
-----
-
-### (REMOVE when send to client) Appendix 1. Errors Encountered
-
-For some unknown reason, the assisted fix code suggestions have error in it:
-
-```java
-String newStr = StringEscapeUtils.escapeHtml4(originalStr);
-newStr = StringUtils.capitalize(newStr);
-```
-
-Correct version:
-
-```java
-String newStr = originalStr.toUpperCase();
- newStr = StringEscapeUtils.escapeHtml4(newStr);
-```
-
-Because of the error of using `StringUtils` instead of `StringEscapeUtils`, the following error might occur.
-
-![screenshot](../images/known_errors_1.png)
