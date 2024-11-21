@@ -30,6 +30,14 @@ When developers write code, WCA will provide real-time inline suggestions.
 
 WCA can help explain the details and functions defined in the code sample.
 
+This you can do by clicking the explain option on top of your functions.
+
+Or, you can explain the entire file by typing the following in chat:
+
+```
+/explain @UseCase_Code_Palindrome.py
+```
+
 ### 3. Code Documentation
 
 WCA can help generate documentation strings for a given code sample.
@@ -52,4 +60,10 @@ Code translation is provided via the following syntex:
 
 Please note from SOURCE_LANGUAGE is an optional argument, and can be skipped while doing translation.
 
-![screenshot](../images/VSC_gp_translation.png)
+For this lab, we will conver the python palindrom code to go language. Try the following prompt:
+
+```
+/translate from python to go UseCase_Code_Palindrome.py
+```
+
+![screenshot](../images/VSC_gp_translation_go.png)
