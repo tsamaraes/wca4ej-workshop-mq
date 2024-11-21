@@ -6,7 +6,7 @@ Last updated: Nov 21th, 2024
 
 ## Prerequisite
 - Watson Code Assistant installed
-- If its not, follow the following [guide]()
+- If its not, follow the following [guide](https://github.com/sidharthmittal25/wca4ej-workshop/blob/main/labs-e2eWebApp/WCA-installation.md)
 
 ## Environment setup 
 
