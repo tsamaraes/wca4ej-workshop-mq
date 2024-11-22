@@ -68,18 +68,19 @@ happen.
 
 ### 4. Make the Create User page nicer
 - In the WCA chat window, type
--    ```bash
+    ```bash
     Create a stylesheet to make this look nicer
     ```
 - You should be receiving a response similar to the picture below
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/ae796ab6-48a4-4135-87af-13f671433901">
+- <img width="953" alt="image" src="https://github.com/user-attachments/assets/ae796ab6-48a4-4135-87af-13f671433901">
+
 - Copy and paste it into **style.css** file
 - Delete the line that says “// Assisted by watsonx Code Assistant” from the CSS
 - Next, connect this **style.css** with **index.html**
-<img width="609" alt="image" src="https://github.com/user-attachments/assets/b9ece7ba-fcba-405c-a56e-51a2488c8adf">
+- <img width="609" alt="image" src="https://github.com/user-attachments/assets/b9ece7ba-fcba-405c-a56e-51a2488c8adf">
 - Repeat step 2 to run the application
 - You should be getting the following create user UI
-<img width="615" alt="image" src="https://github.com/user-attachments/assets/24443aa9-a03f-4728-946a-61c742893b23">
+- <img width="615" alt="image" src="https://github.com/user-attachments/assets/24443aa9-a03f-4728-946a-61c742893b23">
 
 # More tips and tricks of using WCA
 - [Getting code suggestions](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-code)
