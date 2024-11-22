@@ -9,31 +9,29 @@ This document gives step-by-step guide to finish Lab2.
 
 ### 1. Create a frontend based on a REST API endpoint
 - Open a new WCA Chat (Click on start new chat session) and have the empty **index.html** tab open
-<img width="559" alt="image" src="https://github.com/user-attachments/assets/0dfee1f3-5180-4560-8619-0865fa98167a">
+- <img width="559" alt="image" src="https://github.com/user-attachments/assets/0dfee1f3-5180-4560-8619-0865fa98167a">
 - We are going to provide a REST API endpoint to create new users from UsersApi.java
 - Type in this to the chat
     ```bash
     Here is a REST API endpoint to create new users:
     
-@RestController @AllArgsConstructor public class UsersApi { private UserRepository userRepository; private
-UserQueryService userQueryService; private PasswordEncoder passwordEncoder; private JwtService
-jwtService; private UserService userService; @RequestMapping(path = "/users", method = POST) public
-ResponseEntity createUser(@Valid @RequestBody RegisterParam registerParam) { User user =
-userService.createUser(registerParam); UserData userData = userQueryService.findById(user.getId()).get();
-return ResponseEntity.status(201).body(userResponse(new UserWithToken(userData,
-jwtService.toToken(user)))); }
+    @RestController @AllArgsConstructor public class UsersApi { private UserRepository userRepository; private
+    UserQueryService userQueryService; private PasswordEncoder passwordEncoder; private JwtService
+    jwtService; private UserService userService; @RequestMapping(path = "/users", method = POST) public
+    ResponseEntity createUser(@Valid @RequestBody RegisterParam registerParam) { User user =
+    userService.createUser(registerParam); UserData userData = userQueryService.findById(user.getId()).get();
+    return ResponseEntity.status(201).body(userResponse(new UserWithToken(userData,
+    jwtService.toToken(user)))); }
 
-Make an HTML file that calls a script that can call this post endpoint to create a new user. Here is how to call
-it using a curl command:
+    Make an HTML file that calls a script that can call this post endpoint to create a new user. Here is how to call it using a curl command:
 
-curl -X POST http://localhost:8080/users -H "Content-Type: application/json" -d '{ "user": { "username":
-"oscar", "email": "oscar@example.com", "password": "securePassword123" } }'
+    curl -X POST http://localhost:8080/users -H "Content-Type: application/json" -d
+    '{ "user": { "username":"oscar", "email": "oscar@example.com", "password": "securePassword123" }}'
 
-Display a greeting message upon successful creation of an account. Display the error message when errors
-happen.
+    Display a greeting message upon successful creation of an account. Display the error message when errors happen.
     ```
 - You should receive a response which looks like this
-<img width="429" alt="image" src="https://github.com/user-attachments/assets/72f55805-58a9-4e3e-adfb-00d23f5cb38d">
+- <img width="429" alt="image" src="https://github.com/user-attachments/assets/72f55805-58a9-4e3e-adfb-00d23f5cb38d">
 - Copy and paste into **index.html**
 
 ### 2. Verify that application is working
