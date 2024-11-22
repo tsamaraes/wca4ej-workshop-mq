@@ -68,7 +68,7 @@ happen.
 
 ### 4. Make the Create User page nicer
 - In the WCA chat window, type
-    ```bash
+-    ```bash
     Create a stylesheet to make this look nicer
     ```
 - You should be receiving a response similar to the picture below
@@ -82,8 +82,8 @@ happen.
 <img width="615" alt="image" src="https://github.com/user-attachments/assets/24443aa9-a03f-4728-946a-61c742893b23">
 
 # More tips and tricks of using WCA
-[Getting code suggestions]("https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-code")
-[License code blocking]("https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-license-reference")
+- [Getting code suggestions](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-code)
+- [License code blocking](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-license-reference)
 
 
 
