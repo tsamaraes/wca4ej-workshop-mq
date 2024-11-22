@@ -40,7 +40,7 @@ This document gives step-by-step guide to finish Lab2.
     ./gradlew bootRun
     ```
 - Once it stays at around 83%, means its working as intended
-<img width="1188" alt="image" src="https://github.com/user-attachments/assets/6f46750d-5cd6-45ee-91ca-0069079253f8">
+- <img width="1188" alt="image" src="https://github.com/user-attachments/assets/6f46750d-5cd6-45ee-91ca-0069079253f8">
 - Next is to deploy the frontend server
 - Navigate to **frontend** folder (cd frontend from E2EWEBAPP) and run the following lines
     ```bash
@@ -48,7 +48,7 @@ This document gives step-by-step guide to finish Lab2.
     http-server .
     ```
 - Click on one of the servers to open it in a browser
-<img width="1188" alt="image" src="https://github.com/user-attachments/assets/b141741a-31f4-48c9-8615-2913ce758a00">
+- <img width="1188" alt="image" src="https://github.com/user-attachments/assets/b141741a-31f4-48c9-8615-2913ce758a00">
 - Test out the form by entering any random test data
 
 ### 3. Generation of javascript
@@ -57,11 +57,11 @@ This document gives step-by-step guide to finish Lab2.
     Seperate the script and create a new file for it
     ```
 - The response will be a seperated html and javascript code
-<img width="534" alt="image" src="https://github.com/user-attachments/assets/1806fbbc-19f9-4561-a813-ee0ac1f26fce">
-<img width="534" alt="image" src="https://github.com/user-attachments/assets/0005af3a-f832-489c-b27e-2362635f2d1b">
+- <img width="534" alt="image" src="https://github.com/user-attachments/assets/1806fbbc-19f9-4561-a813-ee0ac1f26fce">
+- <img width="534" alt="image" src="https://github.com/user-attachments/assets/0005af3a-f832-489c-b27e-2362635f2d1b">
 - Paste the new HTML code into **index.html** and javascript code into **createUser.js**
 - Ensure the script name in the **index.html** file matches the javascript file name
-<img width="615" alt="image" src="https://github.com/user-attachments/assets/7634f29e-e001-48ea-881f-08d60701e703">
+- <img width="615" alt="image" src="https://github.com/user-attachments/assets/7634f29e-e001-48ea-881f-08d60701e703">
 - Repeat step 2 to test functionality of the script
 
 ### 4. Make the Create User page nicer
