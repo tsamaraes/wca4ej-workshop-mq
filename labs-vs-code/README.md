@@ -102,8 +102,15 @@ As of now, API Key will be provided by IBMers. Please reach out to IBMers for he
 
 ### 5. Download WCA4EJ extension
 
-Download the latest WCA4EJ Code VSCode Extension: [WCA4EJ Extensions](https://ibm.box.com/s/aznj47sm8g4lorhei4vszgovm6zvecg0)
-(PLEASE notify IBMers if you cannot access this link).
+Download watsonx Code Assistant extension from Marketplace
+
+![alt text](../images/wca-marketplace-image.png)
+
+Click Install.
+
+Then you will see the product page.
+
+![alt text](../images/wca-product-image.png)
 
 ### 6. Installing Wca4ej extension
 
