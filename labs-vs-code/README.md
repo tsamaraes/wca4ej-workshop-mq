@@ -112,21 +112,10 @@ Then you will see the product page.
 
 ![alt text](../images/wca-product-image.png)
 
-### 6. Installing Wca4ej extension
+### 6. Log in to the WCA
 
 
-#### After downloding the extension from **Step 5**, install the WCA4EJ using VSCode by 
-
-- nevigating to extension tab and **install from VSIX** 
-
-![screenshot](../images/VSC_extension_install.png)
-
-- select the WCA4EJ drivers downloaded `wca-for-eja-***.vsix`
-and click install.
-
-![screenshot](../images/VSC_WCA4EJ_extension.png)
-
-- restart VSCode if necessary
+#### After installing the extension from **Step 5**, login into the extension via following steps:
 
 - Login with WCA4EJ API Key at the bottom left corner of VSCode. After successfully signed in, the number indicator should be gone.
 
