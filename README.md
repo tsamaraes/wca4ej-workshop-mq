@@ -1,5 +1,5 @@
 # Installation guide for wca4ej 
-TESTING testing 6
+TESTING testing 7
 This document gives infomration on installing software tools/IDE that are needed to run ***Watson Code Assistant For Enterprise Java*** **(Wca4ej)**
 ## Environment setup 
  
